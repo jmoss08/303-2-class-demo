@@ -1,2 +1,1 @@
-# 303-2-class-demo
-In-class demo
+# 303-2-project-proposal
